@@ -1,2 +1,2 @@
-# ctf-archive-hub
-a archive of solutions for ctfs that i have participated by category
+# CTF Archive Hub
+An archive of solutions for CTFs that I have participated, by category
