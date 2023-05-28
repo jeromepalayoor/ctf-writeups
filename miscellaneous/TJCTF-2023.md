@@ -1,7 +1,7 @@
 # Misc challenges in TJCTF 2023
-> [discord](#discord)
-> [survey](#survey)
-> [gish](#gish)
+- [discord](#discord)
+- [survey](#survey)
+- [gish](#gish)
 
 -----
 
