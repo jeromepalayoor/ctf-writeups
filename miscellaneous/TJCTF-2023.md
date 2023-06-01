@@ -1,7 +1,6 @@
 # Misc challenges in TJCTF 2023
 - [discord](#discord)
 - [survey](#survey)
-- [gish](#gish)
 
 -----
 
@@ -26,11 +25,3 @@ Completing the survey gives flag.
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/a1f44915-ba53-4b11-b079-bf70fe08445f)
 
 Flag: `tjctf{thanks_for_playing}`
-
------
-
-## gish
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/9274f1d4-1306-4973-b823-c0ec20107ac8)
-
-I didn't solve this :(
