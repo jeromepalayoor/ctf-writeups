@@ -3,11 +3,6 @@
 - [swill-squill](#swill-squill)
 - [outdated](#outdated)
 - [pay-to-win](#pay-to-win)
-- [ez-sql](#ez-sql)
-- [back-to-the-past](#back-to-the-past)
-- [notes](#notes)
-- [yolo](#yolo)
-- [complainer](#complainer)
 
 -----
 
@@ -124,26 +119,4 @@ r = requests.get(url + "?theme=/secret-flag-dir/flag.txt", cookies={'data': new,
 print(r.text)
 ```
 
-Flag: `tjctf{}`
-
------
-
-## ez-sql
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/524ff6cb-739d-41df-960a-976b50af6b99)
-
-## back-to-the-past
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/0326c59a-7106-47aa-bc80-d4321a69488e)
-
-## notes
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/4f8dd332-0205-4187-b39d-a6696b070835)
-
-## yolo
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/f595009a-7753-4e21-b65a-4a9eaea4fdab)
-
-## complainer
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/29d4dbe9-1db7-4980-accc-bc9c57a086c0)
+Flag: `tjctf{not_random_enough_64831eff}`
