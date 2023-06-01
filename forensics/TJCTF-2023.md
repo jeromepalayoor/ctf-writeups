@@ -2,7 +2,6 @@
 - [beep-boop-robot](#beep-boop-robot)
 - [nothing-to-see](#nothing-to-see)
 - [neofeudalism](#neofeudalism)
-- [miniscule](#miniscule)
 
 -----
 
@@ -47,11 +46,3 @@ I tried binwalk, exiftool and strings on it but nothing shows. Therefore I tried
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/fa216898-2e9e-4195-aea6-352b8d06a095)
 
 Flag: `tjctf{feudalism_still_bad_ea31e43b}`
-
------
-
-## miniscule
-
-![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/5429ea0b-8fef-4882-895c-9414a5433e17)
-
-I am not sure how to solve this :(
