@@ -1,1 +1,3 @@
+# Hardware writeups:
 
+Currently empty :(
