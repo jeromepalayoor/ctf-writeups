@@ -1,5 +1,7 @@
 # Binary exploitation challenges in HSCTF 10
 - [doubler](#doubler)
+- [ed](#ed)
+- [cat](#cat)
 
 -----
 
@@ -108,3 +110,19 @@ print(r.recv())
 Flag: `flag{real_programmers_use_butterflies}`
 
 -----
+
+## cat
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/8c90b0e5-963f-400c-b1fa-8f0fa977283b)
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/59e4ee20-8577-44dc-962d-36c0a0d15d77)
+
+Simple format string bug. I tried to extract the flag using `%n$x` where n is just positive integers. And decode using [cyberchef](https://gchq.github.io/CyberChef/#recipe=Swap_endianness('Hex',4,true)From_Hex('Auto')Remove_null_bytes()&input=ZjdmNDQ1ODBmN2Y0NDAwMGY3ZjY1MmQwMjQzNjI1MDBmNzAwMGE3OGY3ZjQ0M2ZjNjE2YzY2MDM2MTYzN2I2NzY3NWY3Mzc0NjU2ZDVmNmY3ZDc3NmY).
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/4d655e3e-ba57-4ce4-a25c-c887bec438d5)
+
+At the 14th element, the flag was done.
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/0d4fa087-a7f9-4913-a065-d92d9f2e6fec)
+
+Flag: `flag{cats_go_meow}`
