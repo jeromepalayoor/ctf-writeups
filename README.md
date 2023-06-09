@@ -10,7 +10,6 @@ This is where I post my writeups for CTFs that I have participated, by category!
 - [Miscellaneous](miscellaneous/)
 - [Pwn](pwn/)
 - [Reverse](reverse/)
-- [Steganography](steganography/)
 - [Web](web/)
 
 :)
