@@ -1,6 +1,7 @@
 # Web challenges in HSCTF 10
 - [th3-w3bsite](#th3-w3bsite)
 - [an-inaccessible-admin-panel](#an-inaccessible-admin-panel)
+- [mogodb](#mogodb)
 
 -----
 
@@ -119,3 +120,19 @@ Looking admin_panel.html:
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/57e72bd0-b8d4-4dfa-96e9-c968e2b2df8a)
 
 Flag: `flag{Admin, Introduce A Little Anarchy, Upset The Established Order, And Everything Becomes Chaos!!}`
+
+-----
+
+## mogodb
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/cb461ff8-ac84-4fc1-b407-3cc3aa664367)
+
+I realised it was SQL injection with MongoDB. I reasearched a bit and came across [this answer](https://security.stackexchange.com/a/83234). I tried the payload that was shown in the example: `'; return '' == '` as password and admin as username.
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/977a2410-a336-4281-bc20-d0fbc14eb916)
+
+AND IT WORKED!
+
+![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/6f511a10-c541-40e4-9f3f-e6a946db50e2)
+
+Flag: `flag{easier_than_picture_lab_at_least}`
