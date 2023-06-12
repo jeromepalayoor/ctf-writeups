@@ -11,5 +11,6 @@ This is where I post my writeups for CTFs that I have participated, by category!
 - [Pwn](pwn/)
 - [Reverse](reverse/)
 - [Web](web/)
+- [OSINT](osint/)
 
 :)
