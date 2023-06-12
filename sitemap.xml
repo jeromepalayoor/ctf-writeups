@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://jp-ch.gq/blockchain/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/cloud/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/cryptography/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/forensics/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/hardware/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/miscellaneous/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/pwn/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/reverse/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://jp-ch.gq/web/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
