@@ -1,4 +1,4 @@
-# CTF Archive Hub
+# CTF Writeups
 
 This is where I post my writeups for CTFs that I have participated, by category!
 
