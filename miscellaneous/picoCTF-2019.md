@@ -2,7 +2,7 @@
 - [Lets Warm Up](#lets-warm-up)
 - [Warmed Up](#warmed-up)
 - [2Warm](#2warm)
-- [what's a net cat?](#what's-a-net-cat)
+- [what's a net cat?](#whats-a-net-cat)
 - [strings it](#strings-it)
 - [Bases](#bases)
 - [First Grep](#first-grep)
