@@ -375,7 +375,7 @@ if int(the_music) == a_guitar:
         #break
 ```
 
-Looking at it, input 136, then 170:
+Looking at it, input 136, then 1970:
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/7d643909-907a-4a90-b165-00a96bebc89e)
 
