@@ -123,7 +123,8 @@ for i in range(0, 10000, 100):
 Within 2 seconds it got the flag at [page 712](https://challs.aupctf.live/dir/page/712/){:target="_blank" rel="noopener"}:
 
 ```
-712 <!DOCTYPE html>
+712
+<!DOCTYPE html>
 <html>
 <head>
     <title>You Found Me</title>
