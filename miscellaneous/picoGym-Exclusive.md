@@ -5,6 +5,8 @@
 
 -----
 
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 ## First-Find
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/3d343fe6-1542-4c0a-b9d3-2274cbb1b7e8)
