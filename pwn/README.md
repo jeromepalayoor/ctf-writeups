@@ -1,6 +1,6 @@
 # Binary exploitation/pwn writeups:
 
-> - [n00bzCTF 2023](n00bzCTF-2023.md)
-> - [HSCTF 10](HSCTF-10.md)
-> - [TJCTF 2023](TJCTF-2023.md)
-> - [ROP Emporium](ROP-emporium.md)
+> - [n00bzCTF 2023](n00bzCTF-2023)
+> - [HSCTF 10](HSCTF-10)
+> - [TJCTF 2023](TJCTF-2023)
+> - [ROP Emporium](ROP-emporium)

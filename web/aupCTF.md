@@ -13,7 +13,7 @@
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/6582dbba-0cac-4bec-ad06-f4c37c2be3f1)
 
-Link: [https://challs.aupctf.live/starter/](https://challs.aupctf.live/starter/)
+Link: [https://challs.aupctf.live/starter/](https://challs.aupctf.live/starter/){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/30b5e614-f821-47e4-bd2a-712ce5ecb0bc)
 
@@ -29,7 +29,7 @@ Flag: `aupCTF{w45n't-th47-h4rd-r1gh7}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/fbd66fca-dbce-4038-b462-49fc7228ba51)
 
-Link: [https://challs.aupctf.live/sqli-1/](https://challs.aupctf.live/sqli-1/)
+Link: [https://challs.aupctf.live/sqli-1/](https://challs.aupctf.live/sqli-1/){:target="_blank" rel="noopener"}
 
 I tried base `admin` as username and `' or 1=1 ; --` as password.
 
@@ -44,7 +44,7 @@ Flag: `aupCTF{3a5y-sql-1nj3cti0n}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/5dadbc34-0f33-45c2-9120-f6d13d8bbd2f)
 
-Link: [https://challs.aupctf.live/header/](https://challs.aupctf.live/header/) 
+Link: [https://challs.aupctf.live/header/](https://challs.aupctf.live/header/){:target="_blank" rel="noopener"}
 
 Going to site shows some Django python code:
 
@@ -60,7 +60,7 @@ def headar_easy(request):
     return render(request, 'aa/index.html')
 ```
 
-So I sent a request wih the header `GETFLAG` being `yes` using [POSTMAN](https://web.postman.co/)
+So I sent a request wih the header `GETFLAG` being `yes` using [Postman](https://web.postman.co/){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/f1fb6a9e-d168-44d0-b30d-50432909c9c8)
 
@@ -74,14 +74,14 @@ Flag: `aupCTF{cust0m-he4d3r-r3qu3st}`
 
 Hint: try looking for a tag named flag
 
-Link: [https://iasad.me/tags](https://iasad.me/tags)
+Link: [https://iasad.me/tags](https://iasad.me/tags){:target="_blank" rel="noopener"}
 
 I went to [Web archive](https://archive.org/) to find the possible tag named flag. There was one recently 
-[https://web.archive.org/web/20230605190025/https://iasad.me/tags](https://web.archive.org/web/20230605190025/https://iasad.me/tags)
+[https://web.archive.org/web/20230605190025/https://iasad.me/tags](https://web.archive.org/web/20230605190025/https://iasad.me/tags){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/482e2153-9a2e-4ef2-9760-61ae56d1aa64)
 
-Going to [https://web.archive.org/web/20230601061319/https://iasad.me/tags/flag/](https://web.archive.org/web/20230601061319/https://iasad.me/tags/flag/) and then to [https://web.archive.org/web/20230601045526/https://iasad.me/blogs/flag/](https://web.archive.org/web/20230601045526/https://iasad.me/blogs/flag/) and looking at source:
+Going to [https://web.archive.org/web/20230601061319/https://iasad.me/tags/flag/](https://web.archive.org/web/20230601061319/https://iasad.me/tags/flag/){:target="_blank" rel="noopener"} and then to [https://web.archive.org/web/20230601045526/https://iasad.me/blogs/flag/](https://web.archive.org/web/20230601045526/https://iasad.me/blogs/flag/){:target="_blank" rel="noopener"} and looking at source:
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/6659b5bf-bc26-4491-8edf-36e72a7d6ec1)
 
@@ -93,7 +93,7 @@ Flag: `aupCTF{y0u-ar3-4-tru3-t1m3-tr4v3l3r}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/f0d8d6c6-5cf9-4b67-b64d-228e087a2661)
 
-Link: [https://challs.aupctf.live/dir/](https://challs.aupctf.live/dir/)
+Link: [https://challs.aupctf.live/dir/](https://challs.aupctf.live/dir/){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/294945b8-7605-427e-9017-f9377594fd49)
 
@@ -120,7 +120,7 @@ for i in range(0, 10000, 100):
     t.start()
 ```
 
-Within 2 seconds it got the flag at page 712:
+Within 2 seconds it got the flag at [page 712](https://challs.aupctf.live/dir/page/712/){:target="_blank" rel="noopener"}:
 
 ```
 712 <!DOCTYPE html>
