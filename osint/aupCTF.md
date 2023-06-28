@@ -12,7 +12,7 @@
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/7fa72b3f-0a86-452f-81d2-f9be09f3adfa)
 
-Link: [https://github.com/asadse7en/fypCTF](https://github.com/asadse7en/fypCTF)
+Link: [https://github.com/asadse7en/fypCTF](https://github.com/asadse7en/fypCTF){:target="_blank" rel="noopener"}
 
 The flag is in the tags:
 
@@ -36,7 +36,7 @@ Flag: `aupCTF{19}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/e901ac20-2d22-4fe8-a959-50946f538fc5)
 
-Link: [https://iasad.me/](https://iasad.me/)
+Link: [https://iasad.me/](https://iasad.me/){:target="_blank" rel="noopener"}
 
 I use a [DNS records lookup service](https://dnschecker.org/all-dns-records-of-domain.php?query=iasad.me&rtype=TXT&dns=google) to find the TXT record.
 
@@ -54,8 +54,8 @@ Flag: `aupCTF{st0p-l00k1ing-my-dns-r3c0rds}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/0cb32a2a-3eb7-4738-96a9-cdb9d3ca6d37)
 
-Putting it into Google image search, I find that it is [A university library](http://www.aup.edu.pk/library/Gallery/images).
-I found [this part of their website](http://www.aup.edu.pk/library/Page/v/Collection) which shows the number of books, which is 113600.
+Putting it into Google image search, I find that it is [A university library](http://www.aup.edu.pk/library/Gallery/images){:target="_blank" rel="noopener"}.
+I found [this part of their website](http://www.aup.edu.pk/library/Page/v/Collection){:target="_blank" rel="noopener"} which shows the number of books, which is 113600.
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/fc99d5d2-4b61-424d-a7b3-04672a2c4d5e)
 
