@@ -172,7 +172,7 @@ public class mysteryMethods{
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/6d821d2e-7c9b-47d9-b646-45a34c20b4d0)
 
-Reverse the encoded string using [cyberchef](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,27)From_Base64('A-Za-z0-9%2B/%3D',true,false)Reverse('Character')From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=T1MxUVlqOVZhRW9sYURnVFNUWHhTV2o1VWo1Sk5Wd1JVVDR2WDI5MEwxb25kRjF6)
+Reverse the encoded string using [cyberchef](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,27)From_Base64('A-Za-z0-9%2B/%3D',true,false)Reverse('Character')From_Base64('A-Za-z0-9%2B/%3D',true,false)&input=T1MxUVlqOVZhRW9sYURnVFNUWHhTV2o1VWo1Sk5Wd1JVVDR2WDI5MEwxb25kRjF6){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/1c002b36-f732-470a-91ef-bef87f6ce42f)
 

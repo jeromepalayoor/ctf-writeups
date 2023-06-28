@@ -35,7 +35,7 @@ Flag: `picoCTF{gr3p_15_m4g1c_ef8790dc}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/7b549c0c-bd57-425c-8e0c-07fee4b00413)
 
-I used an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+I used an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/cf82464b-aa98-4f5b-a733-5dd0e8ccc1fe)
 

@@ -30,7 +30,7 @@ Flag: `flag{CaesarCiphersAreCool}`
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/7521e1df-c4eb-466a-a5d4-cc534eddef7f)
 
-Putting the numbers into a [decoder](https://www.dcode.fr/rsa-cipher) gives flag.
+Putting the numbers into a [decoder](https://www.dcode.fr/rsa-cipher){:target="_blank" rel="noopener"} gives flag.
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/c2a7ce90-5314-4b94-b2f0-f4798b2746e5)
 
@@ -63,7 +63,7 @@ IIqrBRz → IqrBrz
 S4mLtKOIqr2stRbcQHJAPR2svphjHu0 → 4mLtKOIqr2stRbcQHJAPR2svphjHu0
 ```
 
-Looks like a substitution cipher but each letter is represented by a random group of 3 characters. So, just assign each group of 3 into a letter and use [quipqiup](https://quipqiup.com/).
+Looks like a substitution cipher but each letter is represented by a random group of 3 characters. So, just assign each group of 3 into a letter and use [quipqiup](https://quipqiup.com/){:target="_blank" rel="noopener"}.
 
 ```py
 g = ""

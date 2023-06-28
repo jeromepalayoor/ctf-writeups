@@ -18,7 +18,7 @@
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/ccab3b57-8c2a-4fa0-b9a1-e09bd9ce65ea)
 
-Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/9ea76884-9bd2-47ca-bf5e-5db2edfc4880)
 
@@ -30,7 +30,7 @@ Flag: `picoCTF{p}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/4b8e774b-466d-47da-b6b9-60e4dee4df04)
 
-Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/da12e6d6-e3d8-4cdc-a57d-06ca2f250c66)
 
@@ -46,7 +46,7 @@ Flag: `picoCTF{61}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/9cc27012-c634-4e8a-9662-aa470c771259)
 
-Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/7e4ef5c2-87f7-4651-a9d4-674b50a61fc2)
 
@@ -84,7 +84,7 @@ Flag: `picoCTF{5tRIng5_1T_d66c7bb7}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/78c200d2-efa6-48a0-9380-6aaca0268602)
 
-Use an online decoder: [https://www.dcode.fr/base-64-encoding](https://www.dcode.fr/base-64-encoding)
+Use an online decoder: [https://www.dcode.fr/base-64-encoding](https://www.dcode.fr/base-64-encoding){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/309fd1f3-cbc5-41ab-be7f-e53161ae6416)
 
@@ -106,7 +106,7 @@ Flag: `picoCTF{grep_is_good_to_find_things_f77e0797}`
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/842a6a2f-2681-4cf6-9598-031ea75c369d)
 
-Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/60575258-b756-4f8f-8f50-466db074f3d3)
 
@@ -198,11 +198,11 @@ shout it
 shout Pico
 ```
 
-From the hint: `Do you think you can master rockstar?`, I looked for a rockstar decoder: [https://codewithrockstar.com/online](https://codewithrockstar.com/online)
+From the hint: `Do you think you can master rockstar?`, I looked for a rockstar decoder: [https://codewithrockstar.com/online](https://codewithrockstar.com/online){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/ab43751b-ea1f-4572-bda6-4aae366565dc)
 
-Came out with some numbers, use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Came out with some numbers, use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/a47df13e-ed04-4c15-9434-a73fde2ab3b8)
 
@@ -341,7 +341,7 @@ Else Whisper "That ain't it, Chief"
 Break it down
 ```
 
-Going to [https://web.archive.org/web/20190522020843/https://codewithrockstar.com/online](https://web.archive.org/web/20190522020843/https://codewithrockstar.com/online) asks us for input, so I used a python transpiler: [https://github.com/yyyyyyyan/rockstar-py](https://github.com/yyyyyyyan/rockstar-py) to make into python.
+Going to [https://web.archive.org/web/20190522020843/https://codewithrockstar.com/online](https://web.archive.org/web/20190522020843/https://codewithrockstar.com/online){:target="_blank" rel="noopener"} asks us for input, so I used a python transpiler: [https://github.com/yyyyyyyan/rockstar-py](https://github.com/yyyyyyyan/rockstar-py){:target="_blank" rel="noopener"} to make into python.
 
 ```py
 Rocknroll = True
@@ -379,7 +379,7 @@ Looking at it, input 136, then 1970:
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/7d643909-907a-4a90-b165-00a96bebc89e)
 
-Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code)
+Use an online decoder: [https://www.dcode.fr/ascii-code](https://www.dcode.fr/ascii-code){:target="_blank" rel="noopener"}
 
 ![image](https://github.com/jeromepalayoor/ctf-writeups/assets/63996033/8773809b-8440-4f7d-a2a7-8768b8fe79b3)
 

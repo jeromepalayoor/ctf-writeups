@@ -10,7 +10,7 @@
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/d0da0bc2-3dc8-4a3e-a873-3942c6317f49)
 
-It seems that the ciphertext is comparitively way shorter than the modulus and since e is just 3, taking the [cube root](https://www.dcode.fr/cube-root) of the ciphertext gives the message since the modulus is useless: `m^e mod n = c => m^e = c`
+It seems that the ciphertext is comparitively way shorter than the modulus and since e is just 3, taking the [cube root](https://www.dcode.fr/cube-root){:target="_blank" rel="noopener"} of the ciphertext gives the message since the modulus is useless: `m^e mod n = c => m^e = c`
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/e3130f9d-3e5c-4a58-9347-1548b2c1334e)
 

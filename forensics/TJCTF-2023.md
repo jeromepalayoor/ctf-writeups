@@ -9,7 +9,7 @@
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/cef4d75d-218b-4d47-bbc8-4224c7ec6c65)
 
-The given audio file was just a audio morse code which can put inside [a online decoder](https://databorder.com/transfer/morse-sound-receiver/) to get the flag.
+The given audio file was just a audio morse code which can put inside [a online decoder](https://databorder.com/transfer/morse-sound-receiver/){:target="_blank" rel="noopener"} to get the flag.
 
 ![image](https://github.com/jeromepalayoor/ctf-archive-hub/assets/63996033/9e28e79b-06d9-442e-bddb-807b3ef4bcba)
 
