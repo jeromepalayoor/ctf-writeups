@@ -3,7 +3,7 @@
 - [SQLi - 1](#sqli-1)
 - [Header](#header)
 - [Time Heist](#time-heist)
-- [Directory](#Directory)
+- [Directory](#directory)
 
 5/7 challenges solved
 
