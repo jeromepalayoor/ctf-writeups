@@ -1,6 +1,4 @@
-# CTF Writeups
-
-This is where I post my writeups for CTFs that I have participated, by category!
+# jpalayoor CTF Writeups
 
 - [Blockchain](blockchain/)
 - [Cloud](cloud/)
@@ -12,5 +10,3 @@ This is where I post my writeups for CTFs that I have participated, by category!
 - [Reverse](reverse/)
 - [Web](web/)
 - [OSINT](osint/)
-
-:)
