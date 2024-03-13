@@ -1,7 +1,7 @@
 # Binary exploitation challenges in Lag and Crash 4.0
-- [Welcome2Pwn!](#Welcome2Pwn)
-- [CtfChallengeHub](#CtfChallengeHub)
-- [InversXin](#InversXin)
+- [Welcome2Pwn!](#welcome2pwn)
+- [CtfChallengeHub](#ctfchallengehub)
+- [InversXin](#inversxin)
 
 -----
 
