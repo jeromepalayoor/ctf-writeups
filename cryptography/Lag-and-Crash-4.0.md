@@ -1,9 +1,9 @@
 # Cryptography challenges in Lag and Crash 4.0
-- [Bit Collider](#Bit-Collider)
-- [Viva la Revolution!](#Viva-la-Revolution)
-- [Pattern Recognition](#Pattern-Recognition)
+- [Bit Collider](#bit-collider)
+- [Viva la Revolution!](#viva-la-revolution)
+- [Pattern Recognition](#pattern-recognition)
 - [deserving employee](#deserving-employee)
-- [Resistance Fighters](#Resistance-Fighters)
+- [Resistance Fighters](#resistance-fighters)
 
 -----
 
